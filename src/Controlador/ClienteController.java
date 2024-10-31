@@ -372,7 +372,7 @@ public class ClienteController implements Control, ActionListener, KeyListener, 
     ) {
 
     }
-
+  System.out.printIn ("HOla a todos");
     @Override
     public void mouseExited(MouseEvent e
     ) {
