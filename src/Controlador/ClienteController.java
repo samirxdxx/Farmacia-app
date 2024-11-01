@@ -374,6 +374,7 @@ public class ClienteController implements Control, ActionListener, KeyListener, 
     }
   System.out.printIn ("HOla a todos");
   System.out.printIn ("HOla a todos234");
+  System.out.printIn ("HOla a mubdo2");
     @Override
     public void mouseExited(MouseEvent e
     ) {
